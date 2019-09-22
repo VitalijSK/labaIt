@@ -1,0 +1,10 @@
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\itro1.exe.config
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\obj\Debug\itro1.csprojResolveAssemblyReference.cache
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\itro1.exe
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\itro1.pdb
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\obj\Debug\itro1.exe
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\obj\Debug\itro1.pdb
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\CsvHelper.dll
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\System.ValueTuple.dll
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\CsvHelper.xml
+c:\users\vitalij\documents\visual studio 2015\Projects\itro1\itro1\bin\Debug\System.ValueTuple.xml
